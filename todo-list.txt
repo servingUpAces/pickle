@@ -1,0 +1,11 @@
+Pickle - To Do List
+
+- choose language
+- write a web page with a grid
+- test grid size
+- java script for game management and game submits
+- set board contents - with random letters - however, it should be possible to spell some words.
+  - for example: there are enough vowels.
+- timer for each machine + server --> ends turns for each client
+- 
+
