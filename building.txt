@@ -1,0 +1,6 @@
+build with
+ghc -threaded HelloWorld.hs -o helloworld
+run with
+./helloworld &
+test with
+curl -v http://localhost:8000
