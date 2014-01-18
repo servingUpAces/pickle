@@ -1,0 +1,16 @@
+Pickle Game Rules
+
+- web app
+- Multiplayer
+- more player the bigger the board
+- the board consist of cells, each contain a random letter
+- the players get one minute, ea player must find a word in that time
+- player is out of the game if they can not find a word in the minute:
+- each player gets a point per unique cell played
+- invalid if word not in the dictionary
+- each player has a colour
+- each cell played turns to their colour
+- introduce a blocking rule based on player colours
+- game finished once all tiles are coloured
+- player with the most points wins
+

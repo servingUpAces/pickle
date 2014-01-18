@@ -1,5 +1,6 @@
 Pickle - To Do List
 
+- establish game rules
 - choose language
 - write a web page with a grid
 - test grid size
