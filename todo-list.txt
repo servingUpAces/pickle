@@ -1,7 +1,9 @@
 Pickle - To Do List
 
-- establish game rules
-- choose language
+x- establish game rules
+x- choose language
+  - Haskell and Happstack 
+- write a HelloWorld with Haskel and Happstack
 - write a web page with a grid
 - test grid size
 - java script for game management and game submits
